@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1577202480 source:h:\psd rabu, 27 nnnnov\mysoftwarebyfollowedpakzain\main.cpp
+	<iostream>
+	<cstdio>
+
+1577710952 source:d:\kuliah\nisa\mysoftwarebyfollowedpakzain\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<conio.h>
+
+1577741557 source:c:\users\hp\desktop\mysoftwarebyfollowedpakzain\main.cpp
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<conio.h>
+	"rental.h"
+
+1577742194 c:\users\hp\desktop\mysoftwarebyfollowedpakzain\rental.h
+	<iostream>
+	<cstdio>
+	<windows.h>
+	<conio.h>
+	"rental.h"
+
